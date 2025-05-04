@@ -13,7 +13,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/training-cypress.git
+   git clone https://github.com/Bruninho2104/training-cypress.git
    ```
 
 2. Navegue até o diretório do projeto:
